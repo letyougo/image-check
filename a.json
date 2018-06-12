@@ -1,0 +1,1630 @@
+{
+  "image_id": "ZTvYOt2wzWCijR5TvlcGfA==",
+  "result": [
+    {
+      "child-objects": [
+        {
+          "child-objects": [],
+          "position": [
+            {
+              "y": 232,
+              "x": 42
+            },
+            {
+              "y": 233,
+              "x": 71
+            },
+            {
+              "y": 262,
+              "x": 70
+            },
+            {
+              "y": 262,
+              "x": 41
+            }
+          ],
+          "type": "character",
+          "value": "欲"
+        },
+        {
+          "child-objects": [],
+          "position": [
+            {
+              "y": 231,
+              "x": 71
+            },
+            {
+              "y": 233,
+              "x": 99
+            },
+            {
+              "y": 261,
+              "x": 97
+            },
+            {
+              "y": 261,
+              "x": 69
+            }
+          ],
+          "type": "character",
+          "value": "穷"
+        },
+        {
+          "child-objects": [],
+          "position": [
+            {
+              "y": 232,
+              "x": 98
+            },
+            {
+              "y": 232,
+              "x": 127
+            },
+            {
+              "y": 261,
+              "x": 128
+            },
+            {
+              "y": 262,
+              "x": 98
+            }
+          ],
+          "type": "character",
+          "value": "千"
+        },
+        {
+          "child-objects": [],
+          "position": [
+            {
+              "y": 231,
+              "x": 125
+            },
+            {
+              "y": 233,
+              "x": 156
+            },
+            {
+              "y": 262,
+              "x": 155
+            },
+            {
+              "y": 262,
+              "x": 125
+            }
+          ],
+          "type": "character",
+          "value": "里"
+        },
+        {
+          "child-objects": [],
+          "position": [
+            {
+              "y": 232,
+              "x": 154
+            },
+            {
+              "y": 233,
+              "x": 185
+            },
+            {
+              "y": 263,
+              "x": 184
+            },
+            {
+              "y": 264,
+              "x": 154
+            }
+          ],
+          "type": "character",
+          "value": "目"
+        },
+        {
+          "child-objects": [],
+          "position": [
+            {
+              "y": 231,
+              "x": 210
+            },
+            {
+              "y": 233,
+              "x": 240
+            },
+            {
+              "y": 263,
+              "x": 239
+            },
+            {
+              "y": 262,
+              "x": 209
+            }
+          ],
+          "type": "character",
+          "value": "更"
+        },
+        {
+          "child-objects": [],
+          "position": [
+            {
+              "y": 233,
+              "x": 238
+            },
+            {
+              "y": 233,
+              "x": 270
+            },
+            {
+              "y": 263,
+              "x": 270
+            },
+            {
+              "y": 264,
+              "x": 239
+            }
+          ],
+          "type": "character",
+          "value": "上"
+        },
+        {
+          "child-objects": [],
+          "position": [
+            {
+              "y": 232,
+              "x": 274
+            },
+            {
+              "y": 232,
+              "x": 304
+            },
+            {
+              "y": 264,
+              "x": 303
+            },
+            {
+              "y": 264,
+              "x": 272
+            }
+          ],
+          "type": "character",
+          "value": "一"
+        },
+        {
+          "child-objects": [],
+          "position": [
+            {
+              "y": 232,
+              "x": 321
+            },
+            {
+              "y": 232,
+              "x": 351
+            },
+            {
+              "y": 261,
+              "x": 351
+            },
+            {
+              "y": 262,
+              "x": 322
+            }
+          ],
+          "type": "character",
+          "value": "楼"
+        }
+      ],
+      "position": [],
+      "type": "textline",
+      "value": "欲穷千里目更上一楼"
+    },
+    {
+      "child-objects": [
+        {
+          "child-objects": [],
+          "position": [
+            {
+              "y": 237,
+              "x": 257
+            },
+            {
+              "y": 238,
+              "x": 282
+            },
+            {
+              "y": 265,
+              "x": 281
+            },
+            {
+              "y": 264,
+              "x": 255
+            }
+          ],
+          "type": "character",
+          "value": "-"
+        },
+        {
+          "child-objects": [],
+          "position": [
+            {
+              "y": 231,
+              "x": 294
+            },
+            {
+              "y": 233,
+              "x": 323
+            },
+            {
+              "y": 263,
+              "x": 322
+            },
+            {
+              "y": 262,
+              "x": 293
+            }
+          ],
+          "type": "character",
+          "value": "层"
+        }
+      ],
+      "position": [],
+      "type": "textline",
+      "value": "-层"
+    },
+    {
+      "child-objects": [
+        {
+          "child-objects": [],
+          "position": [
+            {
+              "y": 247,
+              "x": 343
+            },
+            {
+              "y": 250,
+              "x": 357
+            },
+            {
+              "y": 263,
+              "x": 354
+            },
+            {
+              "y": 260,
+              "x": 341
+            }
+          ],
+          "type": "character",
+          "value": "-"
+        },
+        {
+          "child-objects": [],
+          "position": [
+            {
+              "y": 250,
+              "x": 351
+            },
+            {
+              "y": 252,
+              "x": 364
+            },
+            {
+              "y": 264,
+              "x": 363
+            },
+            {
+              "y": 263,
+              "x": 350
+            }
+          ],
+          "type": "character",
+          "value": "o"
+        }
+      ],
+      "position": [],
+      "type": "textline",
+      "value": "-o"
+    },
+    {
+      "child-objects": [
+        {
+          "child-objects": [],
+          "position": [
+            {
+              "y": 106,
+              "x": 43
+            },
+            {
+              "y": 107,
+              "x": 67
+            },
+            {
+              "y": 131,
+              "x": 66
+            },
+            {
+              "y": 131,
+              "x": 42
+            }
+          ],
+          "type": "character",
+          "value": "唐"
+        },
+        {
+          "child-objects": [],
+          "position": [
+            {
+              "y": 106,
+              "x": 65
+            },
+            {
+              "y": 105,
+              "x": 90
+            },
+            {
+              "y": 130,
+              "x": 90
+            },
+            {
+              "y": 131,
+              "x": 66
+            }
+          ],
+          "type": "character",
+          "value": "代"
+        },
+        {
+          "child-objects": [],
+          "position": [
+            {
+              "y": 104,
+              "x": 114
+            },
+            {
+              "y": 105,
+              "x": 141
+            },
+            {
+              "y": 132,
+              "x": 140
+            },
+            {
+              "y": 132,
+              "x": 113
+            }
+          ],
+          "type": "character",
+          "value": "王"
+        },
+        {
+          "child-objects": [],
+          "position": [
+            {
+              "y": 106,
+              "x": 138
+            },
+            {
+              "y": 107,
+              "x": 164
+            },
+            {
+              "y": 133,
+              "x": 163
+            },
+            {
+              "y": 133,
+              "x": 137
+            }
+          ],
+          "type": "character",
+          "value": "之"
+        },
+        {
+          "child-objects": [],
+          "position": [
+            {
+              "y": 106,
+              "x": 161
+            },
+            {
+              "y": 105,
+              "x": 186
+            },
+            {
+              "y": 130,
+              "x": 187
+            },
+            {
+              "y": 132,
+              "x": 162
+            }
+          ],
+          "type": "character",
+          "value": "涣"
+        }
+      ],
+      "position": [],
+      "type": "textline",
+      "value": "唐代王之涣"
+    },
+    {
+      "child-objects": [
+        {
+          "child-objects": [],
+          "position": [
+            {
+              "y": 30,
+              "x": 42
+            },
+            {
+              "y": 33,
+              "x": 85
+            },
+            {
+              "y": 75,
+              "x": 83
+            },
+            {
+              "y": 74,
+              "x": 41
+            }
+          ],
+          "type": "character",
+          "value": "登"
+        },
+        {
+          "child-objects": [],
+          "position": [
+            {
+              "y": 32,
+              "x": 82
+            },
+            {
+              "y": 31,
+              "x": 122
+            },
+            {
+              "y": 73,
+              "x": 123
+            },
+            {
+              "y": 74,
+              "x": 83
+            }
+          ],
+          "type": "character",
+          "value": "鹳"
+        },
+        {
+          "child-objects": [],
+          "position": [
+            {
+              "y": 33,
+              "x": 122
+            },
+            {
+              "y": 33,
+              "x": 162
+            },
+            {
+              "y": 72,
+              "x": 163
+            },
+            {
+              "y": 74,
+              "x": 123
+            }
+          ],
+          "type": "character",
+          "value": "雀"
+        },
+        {
+          "child-objects": [],
+          "position": [
+            {
+              "y": 31,
+              "x": 161
+            },
+            {
+              "y": 32,
+              "x": 204
+            },
+            {
+              "y": 74,
+              "x": 204
+            },
+            {
+              "y": 75,
+              "x": 162
+            }
+          ],
+          "type": "character",
+          "value": "楼"
+        }
+      ],
+      "position": [],
+      "type": "textline",
+      "value": "登鹳雀楼"
+    },
+    {
+      "child-objects": [
+        {
+          "child-objects": [],
+          "position": [
+            {
+              "y": 176,
+              "x": 42
+            },
+            {
+              "y": 178,
+              "x": 71
+            },
+            {
+              "y": 207,
+              "x": 70
+            },
+            {
+              "y": 206,
+              "x": 41
+            }
+          ],
+          "type": "character",
+          "value": "白"
+        },
+        {
+          "child-objects": [],
+          "position": [
+            {
+              "y": 175,
+              "x": 69
+            },
+            {
+              "y": 175,
+              "x": 100
+            },
+            {
+              "y": 206,
+              "x": 100
+            },
+            {
+              "y": 207,
+              "x": 70
+            }
+          ],
+          "type": "character",
+          "value": "日"
+        },
+        {
+          "child-objects": [],
+          "position": [
+            {
+              "y": 177,
+              "x": 98
+            },
+            {
+              "y": 177,
+              "x": 126
+            },
+            {
+              "y": 205,
+              "x": 126
+            },
+            {
+              "y": 206,
+              "x": 99
+            }
+          ],
+          "type": "character",
+          "value": "依"
+        },
+        {
+          "child-objects": [],
+          "position": [
+            {
+              "y": 177,
+              "x": 123
+            },
+            {
+              "y": 176,
+              "x": 152
+            },
+            {
+              "y": 205,
+              "x": 153
+            },
+            {
+              "y": 207,
+              "x": 124
+            }
+          ],
+          "type": "character",
+          "value": "山"
+        },
+        {
+          "child-objects": [],
+          "position": [
+            {
+              "y": 175,
+              "x": 154
+            },
+            {
+              "y": 177,
+              "x": 183
+            },
+            {
+              "y": 207,
+              "x": 182
+            },
+            {
+              "y": 206,
+              "x": 152
+            }
+          ],
+          "type": "character",
+          "value": "尽"
+        },
+        {
+          "child-objects": [],
+          "position": [
+            {
+              "y": 176,
+              "x": 210
+            },
+            {
+              "y": 177,
+              "x": 239
+            },
+            {
+              "y": 205,
+              "x": 238
+            },
+            {
+              "y": 205,
+              "x": 210
+            }
+          ],
+          "type": "character",
+          "value": "黄"
+        },
+        {
+          "child-objects": [],
+          "position": [
+            {
+              "y": 175,
+              "x": 237
+            },
+            {
+              "y": 177,
+              "x": 266
+            },
+            {
+              "y": 206,
+              "x": 266
+            },
+            {
+              "y": 206,
+              "x": 237
+            }
+          ],
+          "type": "character",
+          "value": "河"
+        },
+        {
+          "child-objects": [],
+          "position": [
+            {
+              "y": 176,
+              "x": 264
+            },
+            {
+              "y": 175,
+              "x": 294
+            },
+            {
+              "y": 205,
+              "x": 296
+            },
+            {
+              "y": 207,
+              "x": 265
+            }
+          ],
+          "type": "character",
+          "value": "入"
+        },
+        {
+          "child-objects": [],
+          "position": [
+            {
+              "y": 176,
+              "x": 295
+            },
+            {
+              "y": 178,
+              "x": 324
+            },
+            {
+              "y": 206,
+              "x": 322
+            },
+            {
+              "y": 205,
+              "x": 294
+            }
+          ],
+          "type": "character",
+          "value": "海"
+        },
+        {
+          "child-objects": [],
+          "position": [
+            {
+              "y": 176,
+              "x": 323
+            },
+            {
+              "y": 178,
+              "x": 351
+            },
+            {
+              "y": 206,
+              "x": 349
+            },
+            {
+              "y": 206,
+              "x": 321
+            }
+          ],
+          "type": "character",
+          "value": "流"
+        }
+      ],
+      "position": [],
+      "type": "textline",
+      "value": "白日依山尽黄河入海流"
+    },
+    {
+      "child-objects": [
+        {
+          "child-objects": [],
+          "position": [
+            {
+              "y": 193,
+              "x": 355
+            },
+            {
+              "y": 201,
+              "x": 364
+            },
+            {
+              "y": 210,
+              "x": 356
+            },
+            {
+              "y": 202,
+              "x": 347
+            }
+          ],
+          "type": "character",
+          "value": "o"{
+          "image_id": "ZTvYOt2wzWCijR5TvlcGfA==",
+          "result": [
+            {
+              "child-objects": [
+                {
+                  "child-objects": [],
+                  "position": [
+                    {
+                      "y": 232,
+                      "x": 42
+                    },
+                    {
+                      "y": 233,
+                      "x": 71
+                    },
+                    {
+                      "y": 262,
+                      "x": 70
+                    },
+                    {
+                      "y": 262,
+                      "x": 41
+                    }
+                  ],
+                  "type": "character",
+                  "value": "欲"
+                },
+                {
+                  "child-objects": [],
+                  "position": [
+                    {
+                      "y": 231,
+                      "x": 71
+                    },
+                    {
+                      "y": 233,
+                      "x": 99
+                    },
+                    {
+                      "y": 261,
+                      "x": 97
+                    },
+                    {
+                      "y": 261,
+                      "x": 69
+                    }
+                  ],
+                  "type": "character",
+                  "value": "穷"
+                },
+                {
+                  "child-objects": [],
+                  "position": [
+                    {
+                      "y": 232,
+                      "x": 98
+                    },
+                    {
+                      "y": 232,
+                      "x": 127
+                    },
+                    {
+                      "y": 261,
+                      "x": 128
+                    },
+                    {
+                      "y": 262,
+                      "x": 98
+                    }
+                  ],
+                  "type": "character",
+                  "value": "千"
+                },
+                {
+                  "child-objects": [],
+                  "position": [
+                    {
+                      "y": 231,
+                      "x": 125
+                    },
+                    {
+                      "y": 233,
+                      "x": 156
+                    },
+                    {
+                      "y": 262,
+                      "x": 155
+                    },
+                    {
+                      "y": 262,
+                      "x": 125
+                    }
+                  ],
+                  "type": "character",
+                  "value": "里"
+                },
+                {
+                  "child-objects": [],
+                  "position": [
+                    {
+                      "y": 232,
+                      "x": 154
+                    },
+                    {
+                      "y": 233,
+                      "x": 185
+                    },
+                    {
+                      "y": 263,
+                      "x": 184
+                    },
+                    {
+                      "y": 264,
+                      "x": 154
+                    }
+                  ],
+                  "type": "character",
+                  "value": "目"
+                },
+                {
+                  "child-objects": [],
+                  "position": [
+                    {
+                      "y": 231,
+                      "x": 210
+                    },
+                    {
+                      "y": 233,
+                      "x": 240
+                    },
+                    {
+                      "y": 263,
+                      "x": 239
+                    },
+                    {
+                      "y": 262,
+                      "x": 209
+                    }
+                  ],
+                  "type": "character",
+                  "value": "更"
+                },
+                {
+                  "child-objects": [],
+                  "position": [
+                    {
+                      "y": 233,
+                      "x": 238
+                    },
+                    {
+                      "y": 233,
+                      "x": 270
+                    },
+                    {
+                      "y": 263,
+                      "x": 270
+                    },
+                    {
+                      "y": 264,
+                      "x": 239
+                    }
+                  ],
+                  "type": "character",
+                  "value": "上"
+                },
+                {
+                  "child-objects": [],
+                  "position": [
+                    {
+                      "y": 232,
+                      "x": 274
+                    },
+                    {
+                      "y": 232,
+                      "x": 304
+                    },
+                    {
+                      "y": 264,
+                      "x": 303
+                    },
+                    {
+                      "y": 264,
+                      "x": 272
+                    }
+                  ],
+                  "type": "character",
+                  "value": "一"
+                },
+                {
+                  "child-objects": [],
+                  "position": [
+                    {
+                      "y": 232,
+                      "x": 321
+                    },
+                    {
+                      "y": 232,
+                      "x": 351
+                    },
+                    {
+                      "y": 261,
+                      "x": 351
+                    },
+                    {
+                      "y": 262,
+                      "x": 322
+                    }
+                  ],
+                  "type": "character",
+                  "value": "楼"
+                }
+              ],
+              "position": [],
+              "type": "textline",
+              "value": "欲穷千里目更上一楼"
+            },
+            {
+              "child-objects": [
+                {
+                  "child-objects": [],
+                  "position": [
+                    {
+                      "y": 237,
+                      "x": 257
+                    },
+                    {
+                      "y": 238,
+                      "x": 282
+                    },
+                    {
+                      "y": 265,
+                      "x": 281
+                    },
+                    {
+                      "y": 264,
+                      "x": 255
+                    }
+                  ],
+                  "type": "character",
+                  "value": "-"
+                },
+                {
+                  "child-objects": [],
+                  "position": [
+                    {
+                      "y": 231,
+                      "x": 294
+                    },
+                    {
+                      "y": 233,
+                      "x": 323
+                    },
+                    {
+                      "y": 263,
+                      "x": 322
+                    },
+                    {
+                      "y": 262,
+                      "x": 293
+                    }
+                  ],
+                  "type": "character",
+                  "value": "层"
+                }
+              ],
+              "position": [],
+              "type": "textline",
+              "value": "-层"
+            },
+            {
+              "child-objects": [
+                {
+                  "child-objects": [],
+                  "position": [
+                    {
+                      "y": 247,
+                      "x": 343
+                    },
+                    {
+                      "y": 250,
+                      "x": 357
+                    },
+                    {
+                      "y": 263,
+                      "x": 354
+                    },
+                    {
+                      "y": 260,
+                      "x": 341
+                    }
+                  ],
+                  "type": "character",
+                  "value": "-"
+                },
+                {
+                  "child-objects": [],
+                  "position": [
+                    {
+                      "y": 250,
+                      "x": 351
+                    },
+                    {
+                      "y": 252,
+                      "x": 364
+                    },
+                    {
+                      "y": 264,
+                      "x": 363
+                    },
+                    {
+                      "y": 263,
+                      "x": 350
+                    }
+                  ],
+                  "type": "character",
+                  "value": "o"
+                }
+              ],
+              "position": [],
+              "type": "textline",
+              "value": "-o"
+            },
+            {
+              "child-objects": [
+                {
+                  "child-objects": [],
+                  "position": [
+                    {
+                      "y": 106,
+                      "x": 43
+                    },
+                    {
+                      "y": 107,
+                      "x": 67
+                    },
+                    {
+                      "y": 131,
+                      "x": 66
+                    },
+                    {
+                      "y": 131,
+                      "x": 42
+                    }
+                  ],
+                  "type": "character",
+                  "value": "唐"
+                },
+                {
+                  "child-objects": [],
+                  "position": [
+                    {
+                      "y": 106,
+                      "x": 65
+                    },
+                    {
+                      "y": 105,
+                      "x": 90
+                    },
+                    {
+                      "y": 130,
+                      "x": 90
+                    },
+                    {
+                      "y": 131,
+                      "x": 66
+                    }
+                  ],
+                  "type": "character",
+                  "value": "代"
+                },
+                {
+                  "child-objects": [],
+                  "position": [
+                    {
+                      "y": 104,
+                      "x": 114
+                    },
+                    {
+                      "y": 105,
+                      "x": 141
+                    },
+                    {
+                      "y": 132,
+                      "x": 140
+                    },
+                    {
+                      "y": 132,
+                      "x": 113
+                    }
+                  ],
+                  "type": "character",
+                  "value": "王"
+                },
+                {
+                  "child-objects": [],
+                  "position": [
+                    {
+                      "y": 106,
+                      "x": 138
+                    },
+                    {
+                      "y": 107,
+                      "x": 164
+                    },
+                    {
+                      "y": 133,
+                      "x": 163
+                    },
+                    {
+                      "y": 133,
+                      "x": 137
+                    }
+                  ],
+                  "type": "character",
+                  "value": "之"
+                },
+                {
+                  "child-objects": [],
+                  "position": [
+                    {
+                      "y": 106,
+                      "x": 161
+                    },
+                    {
+                      "y": 105,
+                      "x": 186
+                    },
+                    {
+                      "y": 130,
+                      "x": 187
+                    },
+                    {
+                      "y": 132,
+                      "x": 162
+                    }
+                  ],
+                  "type": "character",
+                  "value": "涣"
+                }
+              ],
+              "position": [],
+              "type": "textline",
+              "value": "唐代王之涣"
+            },
+            {
+              "child-objects": [
+                {
+                  "child-objects": [],
+                  "position": [
+                    {
+                      "y": 30,
+                      "x": 42
+                    },
+                    {
+                      "y": 33,
+                      "x": 85
+                    },
+                    {
+                      "y": 75,
+                      "x": 83
+                    },
+                    {
+                      "y": 74,
+                      "x": 41
+                    }
+                  ],
+                  "type": "character",
+                  "value": "登"
+                },
+                {
+                  "child-objects": [],
+                  "position": [
+                    {
+                      "y": 32,
+                      "x": 82
+                    },
+                    {
+                      "y": 31,
+                      "x": 122
+                    },
+                    {
+                      "y": 73,
+                      "x": 123
+                    },
+                    {
+                      "y": 74,
+                      "x": 83
+                    }
+                  ],
+                  "type": "character",
+                  "value": "鹳"
+                },
+                {
+                  "child-objects": [],
+                  "position": [
+                    {
+                      "y": 33,
+                      "x": 122
+                    },
+                    {
+                      "y": 33,
+                      "x": 162
+                    },
+                    {
+                      "y": 72,
+                      "x": 163
+                    },
+                    {
+                      "y": 74,
+                      "x": 123
+                    }
+                  ],
+                  "type": "character",
+                  "value": "雀"
+                },
+                {
+                  "child-objects": [],
+                  "position": [
+                    {
+                      "y": 31,
+                      "x": 161
+                    },
+                    {
+                      "y": 32,
+                      "x": 204
+                    },
+                    {
+                      "y": 74,
+                      "x": 204
+                    },
+                    {
+                      "y": 75,
+                      "x": 162
+                    }
+                  ],
+                  "type": "character",
+                  "value": "楼"
+                }
+              ],
+              "position": [],
+              "type": "textline",
+              "value": "登鹳雀楼"
+            },
+            {
+              "child-objects": [
+                {
+                  "child-objects": [],
+                  "position": [
+                    {
+                      "y": 176,
+                      "x": 42
+                    },
+                    {
+                      "y": 178,
+                      "x": 71
+                    },
+                    {
+                      "y": 207,
+                      "x": 70
+                    },
+                    {
+                      "y": 206,
+                      "x": 41
+                    }
+                  ],
+                  "type": "character",
+                  "value": "白"
+                },
+                {
+                  "child-objects": [],
+                  "position": [
+                    {
+                      "y": 175,
+                      "x": 69
+                    },
+                    {
+                      "y": 175,
+                      "x": 100
+                    },
+                    {
+                      "y": 206,
+                      "x": 100
+                    },
+                    {
+                      "y": 207,
+                      "x": 70
+                    }
+                  ],
+                  "type": "character",
+                  "value": "日"
+                },
+                {
+                  "child-objects": [],
+                  "position": [
+                    {
+                      "y": 177,
+                      "x": 98
+                    },
+                    {
+                      "y": 177,
+                      "x": 126
+                    },
+                    {
+                      "y": 205,
+                      "x": 126
+                    },
+                    {
+                      "y": 206,
+                      "x": 99
+                    }
+                  ],
+                  "type": "character",
+                  "value": "依"
+                },
+                {
+                  "child-objects": [],
+                  "position": [
+                    {
+                      "y": 177,
+                      "x": 123
+                    },
+                    {
+                      "y": 176,
+                      "x": 152
+                    },
+                    {
+                      "y": 205,
+                      "x": 153
+                    },
+                    {
+                      "y": 207,
+                      "x": 124
+                    }
+                  ],
+                  "type": "character",
+                  "value": "山"
+                },
+                {
+                  "child-objects": [],
+                  "position": [
+                    {
+                      "y": 175,
+                      "x": 154
+                    },
+                    {
+                      "y": 177,
+                      "x": 183
+                    },
+                    {
+                      "y": 207,
+                      "x": 182
+                    },
+                    {
+                      "y": 206,
+                      "x": 152
+                    }
+                  ],
+                  "type": "character",
+                  "value": "尽"
+                },
+                {
+                  "child-objects": [],
+                  "position": [
+                    {
+                      "y": 176,
+                      "x": 210
+                    },
+                    {
+                      "y": 177,
+                      "x": 239
+                    },
+                    {
+                      "y": 205,
+                      "x": 238
+                    },
+                    {
+                      "y": 205,
+                      "x": 210
+                    }
+                  ],
+                  "type": "character",
+                  "value": "黄"
+                },
+                {
+                  "child-objects": [],
+                  "position": [
+                    {
+                      "y": 175,
+                      "x": 237
+                    },
+                    {
+                      "y": 177,
+                      "x": 266
+                    },
+                    {
+                      "y": 206,
+                      "x": 266
+                    },
+                    {
+                      "y": 206,
+                      "x": 237
+                    }
+                  ],
+                  "type": "character",
+                  "value": "河"
+                },
+                {
+                  "child-objects": [],
+                  "position": [
+                    {
+                      "y": 176,
+                      "x": 264
+                    },
+                    {
+                      "y": 175,
+                      "x": 294
+                    },
+                    {
+                      "y": 205,
+                      "x": 296
+                    },
+                    {
+                      "y": 207,
+                      "x": 265
+                    }
+                  ],
+                  "type": "character",
+                  "value": "入"
+                },
+                {
+                  "child-objects": [],
+                  "position": [
+                    {
+                      "y": 176,
+                      "x": 295
+                    },
+                    {
+                      "y": 178,
+                      "x": 324
+                    },
+                    {
+                      "y": 206,
+                      "x": 322
+                    },
+                    {
+                      "y": 205,
+                      "x": 294
+                    }
+                  ],
+                  "type": "character",
+                  "value": "海"
+                },
+                {
+                  "child-objects": [],
+                  "position": [
+                    {
+                      "y": 176,
+                      "x": 323
+                    },
+                    {
+                      "y": 178,
+                      "x": 351
+                    },
+                    {
+                      "y": 206,
+                      "x": 349
+                    },
+                    {
+                      "y": 206,
+                      "x": 321
+                    }
+                  ],
+                  "type": "character",
+                  "value": "流"
+                }
+              ],
+              "position": [],
+              "type": "textline",
+              "value": "白日依山尽黄河入海流"
+            },
+            {
+              "child-objects": [
+                {
+                  "child-objects": [],
+                  "position": [
+                    {
+                      "y": 193,
+                      "x": 355
+                    },
+                    {
+                      "y": 201,
+                      "x": 364
+                    },
+                    {
+                      "y": 210,
+                      "x": 356
+                    },
+                    {
+                      "y": 202,
+                      "x": 347
+                    }
+                  ],
+                  "type": "character",
+                  "value": "o"
+                }
+              ],
+              "position": [],
+              "type": "textline",
+              "value": "o"
+            }
+          ],
+          "request_id": "1528794130,46a35de3-a52e-4e89-9517-8e2e56852c1f",
+          "time_used": 1259
+        }
+
+        }
+      ],
+      "position": [],
+      "type": "textline",
+      "value": "o"
+    }
+  ],
+  "request_id": "1528794130,46a35de3-a52e-4e89-9517-8e2e56852c1f",
+  "time_used": 1259
+}
