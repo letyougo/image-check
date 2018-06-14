@@ -8,5 +8,14 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "image-size": "^0.6.3",
+    "pdf-image": "^2.0.0",
+    "pdf2img": "^0.5.0",
+    "pdfreader": "^0.2.5",
+    "scissors": "^0.2.5",
+    "sharp": "^0.20.3",
+    "stream-to-promise": "^2.2.0"
+  }
 }
